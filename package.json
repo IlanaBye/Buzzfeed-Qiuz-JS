@@ -1,0 +1,19 @@
+{
+  "name": "buzzfeed-quiz-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IlanaBye/Buzzfeed-Qiuz-JS.git"
+  },
+  "author": "Ilana Bye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IlanaBye/Buzzfeed-Qiuz-JS/issues"
+  },
+  "homepage": "https://github.com/IlanaBye/Buzzfeed-Qiuz-JS#readme"
+}
